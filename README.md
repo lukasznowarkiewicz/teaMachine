@@ -1,5 +1,6 @@
 # teaMachine
 
+![tea machine](images/teaMachineAssembly_rev_10_front.png)
 ---
 
 ### Table of Contents
